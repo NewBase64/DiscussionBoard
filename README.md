@@ -28,3 +28,9 @@ OpenRA
 Complete open-source real-time strategy game engine. Make games similar to Command and Conquer Red Alert.
 
 https://github.com/OpenRA/OpenRA
+
+gitignore
+
+Gives a collection of templates for .gitignore.
+
+https://github.com/github/gitignore
